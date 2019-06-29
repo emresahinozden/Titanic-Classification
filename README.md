@@ -1,7 +1,7 @@
 # Titanic_Classification
 Classification Study on Kaggle Titanic Data
 
-The data gives us information on the passangers of Titanic. 
+The [data](https://www.kaggle.com/c/titanic/data "kaggle titanic data") gives us information on the passangers of Titanic. 
 By that information, we will try to find a model to guess if the passanger survived or not.
 
 Dataset consists of two parts: train and test. 
@@ -20,4 +20,4 @@ Dataset have the columns:
 - cabin: Cabin number
 - embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-Benefited from [udemy course](https://www.udemy.com/machine-learning-classification)
+Benefited from [udemy course](https://www.udemy.com/machine-learning-classification) by Dr. Ryan Ahmed
