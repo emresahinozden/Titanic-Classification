@@ -19,3 +19,5 @@ Dataset have the columns:
 - fare: Passenger fare
 - cabin: Cabin number
 - embarked: Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+Benefited from [udemy course](https://www.udemy.com/machine-learning-classification)
